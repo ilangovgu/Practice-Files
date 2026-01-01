@@ -1,4 +1,4 @@
-# Matplotlib & Pandas
+# Matplotlib & Pandas.
 
 import matplotlib.pyplot as plt                             # Visual analytics for comparing sensor usage patterns
 import pandas as pd                                         # Tabular data processing & aggregation
