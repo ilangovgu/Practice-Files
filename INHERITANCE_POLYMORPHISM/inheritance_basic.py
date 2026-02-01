@@ -18,3 +18,4 @@ print("Area of rectangle:",rec1.area())
 
 circle1=circle(5)
 print("Area of circle:",circle1.area())
+
