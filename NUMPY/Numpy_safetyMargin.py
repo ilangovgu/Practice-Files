@@ -1,5 +1,6 @@
 # Multi sensor range comparison
 # Applyong radar specific safety margins using broadcasting
+# Numpy broadcasting allows us to perform operations on arrays of different shapes and sizes without the need for explicit loops. In this example, we have a 2D array representing radar range measurements from multiple sensors, and we want to apply specific safety margins to each sensor's measurements. By using broadcasting, we can easily subtract the safety margins from the radar range measurements without needing to loop through each element.
 
 import numpy as np
 radar_range=np.array([
